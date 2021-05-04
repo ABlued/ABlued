@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![React](https://img.shields.io/badge/React-61DAF8?logo=React&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white) 
 
 [![ABlued's github stats](https://github-readme-stats.vercel.app/api?username=ABlued&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
