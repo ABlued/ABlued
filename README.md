@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![ABlued's github stats](https://github-readme-stats.vercel.app/api?username=ABlued&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Blued's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Blued)](https://wakatime.com/@Blued)
+
+Hello!
+<br>
+<br>
