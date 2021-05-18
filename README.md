@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 👋 안녕하세요 웹뿌링클치킨이 아니라 웹뿌론트엔드가 되고싶은 삐약삐약 주니어치킨개발자 ABlued입니다!
   
 ### ✔ 목표
-&ensp; **'Passionate하고 Fashionate한 프론트 엔드'** 개발자의 정체성을 확립하는 것!
+&ensp; **'Passionate하고 Fashionate한 프론트 엔드'** 개발자의 되어 사용자를 위한 웹페이지를 제작하는 것!
   
 ### :thumbsup: My Skills
 ![Java](https://img.shields.io/badge/Java-007386?logo=Java&logoColor=white)
