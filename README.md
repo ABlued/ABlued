@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 👋 안녕하세요 웹뿌링클치킨이 아니라 웹뿌론트엔드가 되고싶은 삐약삐약 주니어치킨개발자 ABlued입니다!
   
+  
 ### ✔ 목표
 &ensp; **'Passionate하고 Fashionate한 프론트 엔드'** 개발자의 되어 사용자를 위한 웹페이지를 제작하는 것!
   
@@ -30,12 +31,7 @@ Here are some ideas to get you started:
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=White)
- 
-[![ABlued's github stats](https://github-readme-stats.vercel.app/api?username=ABlued&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Blued's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Blued)](https://wakatime.com/@Blued)
-
-
+  
 ### :clipboard: 프로젝트
 + :shirt: CShop : HTML, CSS, JS, Json을 사용한 간단한 미니 프로젝트 = https://github.com/ABlued/CShop
 + :dress: NodeSinSa : React, NodeJS, Redux, 몽고DB, express를 활용한 쇼핑몰 웹사이트 구현 = https://github.com/ABlued/NodeReactProject
@@ -43,6 +39,10 @@ Here are some ideas to get you started:
 + :sunrise: Momonton : HTML, CSS, JS, API를 사용하여 음식을 추천하는 웹사이트 = https://github.com/ABlued/momonton
   
   
+[![ABlued's github stats](https://github-readme-stats.vercel.app/api?username=ABlued&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Blued's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Blued)](https://wakatime.com/@Blued)
+
 ### Etc.
 - 🌎 Contact me : skwodhkswkd@naver.com
 - 🌱 Blog : https://ablue-1.tistory.com/
