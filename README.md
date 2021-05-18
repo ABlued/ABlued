@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-61DAF8?logo=React&logoColor=black)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=Gitk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=White)
  
 [![ABlued's github stats](https://github-readme-stats.vercel.app/api?username=ABlued&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
