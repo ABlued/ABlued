@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=White)
   
 ### :clipboard: 프로젝트
-+ :shirt: CShop : HTML, CSS, JS, Json을 사용한 간단한 미니 프로젝트 = https://github.com/ABlued/CShop
-+ :dress: NodeSinSa : React, NodeJS, Redux, 몽고DB, express를 활용한 쇼핑몰 웹사이트 구현 = https://github.com/ABlued/NodeReactProject
-+ :camera: ParsiArtGallery : Java, JSP, JDBC를 사용한 사진을 공유할 수 있는 CRUD 게시판 = https://github.com/ABlued/ParisArtGallery-public-
-+ :sunrise: Momonton : HTML, CSS, JS, API를 사용하여 음식을 추천하는 웹사이트 = https://github.com/ABlued/momonton
++ :shirt: [CShop](https://github.com/ABlued/CShop) : HTML, CSS, JS, Json을 사용한 간단한 미니 프로젝트
++ :dress: [NodeSinSa](https://github.com/ABlued/NodeReactProject) : React, NodeJS, Redux, 몽고DB, express를 활용한 쇼핑몰 웹사이트 구현
++ :camera: [ParsiArtGallery](https://github.com/ABlued/ParisArtGallery-public-) : Java, JSP, JDBC를 사용한 사진을 공유할 수 있는 CRUD 게시판
++ :sunrise: [Momonton](https://github.com/ABlued/momonton) : HTML, CSS, JS, API를 사용하여 음식을 추천하는 웹사이트
   
   
   
