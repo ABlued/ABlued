@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white)
-![AntDesign](https://img.shields.io/badge/Ant-Design-#0170FE?logo=Ant-Design&logoColor=white)
+![AntDesign](https://img.shields.io/badge/AntDesign-0170FE?logo=AntDesign&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?logo=JSON&logoColor=white)
