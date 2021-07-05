@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   
 ### :star: 이력
 + [Contributing] [React 공식 문서 오픈소스 기여(문서 수정)](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/typechecking-with-proptypes.md)
-+ [Study] [한국산업기술대학교 IT동아리 씨부엉 임원 및 자바 스터디 리더](https://cafe.naver.com/cebuong/21)
++ [Study] [한국산업기술대학교 IT동아리 씨부엉 임원 및 자바 스터디 리더](https://cafe.naver.com/cebuong/188)
 
 ### Etc.
 - 🌎 Contact me : skwodhkswkd@naver.com
