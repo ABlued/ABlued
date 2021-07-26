@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   
 ### :thumbsup: My Skills
 + FrontEnd : ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white)
-+ BackEnd : ![Java](https://img.shields.io/badge/Java-007386?logo=Java&logoColor=white)
 + DevTools : ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=black)
 + Library : ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white) ![AntDesign](https://img.shields.io/badge/AntDesign-0170FE?logo=AntDesign&logoColor=white)
 + Framework : ![React](https://img.shields.io/badge/React-61DAF8?logo=React&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white)
