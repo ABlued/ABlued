@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 + Framework : ![React](https://img.shields.io/badge/React-61DAF8?logo=React&logoColor=black)
 + DataBase : ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=black)
 + ShapeManagement : ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=White)
++ programming language : ![java](https://img.shields.io/badge/java-007396?logo=java&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
 + Others : ![JSON](https://img.shields.io/badge/JSON-000000?logo=JSON&logoColor=white)
 
   
