@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 + :sunrise: [Momonton](https://github.com/ABlued/momonton) : HTML, CSS, JS, API를 사용하여 음식을 추천하는 웹사이트
   
 ### :family: 팀 프로젝트
++ :cupid: : [심쿵](https://github.com/MBTIProject) : 진행 중
 + :smile_cat: [CBTI](https://github.com/CBTI) : 진행 중
 + :camera: [ParsiArtGallery](https://github.com/ABlued/ParisArtGallery-public-) : Java, JSP, JDBC를 사용한 사진을 공유할 수 있는 CRUD 게시판
-+ :iphone: [PrivateGallery](https://github.com/ABlued/PrivateGallery) : 코틀린을 활용한 안드로이드갤러리어플리케이션
   
 ### :star: 이력
 + [Contributing] [React 공식 문서 오픈소스 기여(문서 수정)](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/typechecking-with-proptypes.md)
