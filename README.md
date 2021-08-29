@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 + :sunrise: [Momonton](https://github.com/ABlued/momonton) : HTML, CSS, JS, API를 사용하여 음식을 추천하는 웹사이트
   
 ### :family: 팀 프로젝트
-+ :cupid: [심쿵](https://github.com/MBTIProject) : 진행 중
++ :cupid: [심쿵](https://github.com/MBTIProject) : 심리테스트 웹사이트 만들기 프로젝트
 + :smile_cat: [CBTI](https://github.com/CBTI) : 진행 중
 + :camera: [ParsiArtGallery](https://github.com/ABlued/ParisArtGallery-public-) : Java, JSP, JDBC를 사용한 사진을 공유할 수 있는 CRUD 게시판
   
