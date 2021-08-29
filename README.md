@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 + [Contributing] [React 공식 문서 오픈소스 기여(문서 수정)](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/typechecking-with-proptypes.md)
 + [Study] [한국산업기술대학교 IT동아리 씨부엉 임원 및 자바 스터디 리더](https://cafe.naver.com/cebuong/188) 2020.5.29 ~ 2020.9.23
 + [Training Program] [G밸리 개발자 양성 GD프로젝트](https://ablue-1.tistory.com/category/GD%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) 2021.7.5 ~ 진행중  
-  
++ [Certificate] 정보처리기사 합격
 ### Etc.
 - 🌎 Contact me : skwodhkswkd@naver.com
 - 🌱 Blog : [ABlue의 기술블로그](https://ablue-1.tistory.com)
