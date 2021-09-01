@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 + CollaborationManagement : ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=White)
 + programming language : ![java](https://img.shields.io/badge/java-007396?logo=java&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
 + Others : ![JSON](https://img.shields.io/badge/JSON-000000?logo=JSON&logoColor=white)
-
+  
+# :family: 메인 팀프로젝트
++ :womans_clothes: [니꼬내꼬](https://github.com/NikkoNaekko) : react, spring을 사용한 지그재그 모바일 어플리케이션 클론코딩 팀프로젝트
++ :clipboard: [니꼬내꼬 소개가이드](https://grey-fairy-603.notion.site/1cab68a68dbe42308935d70d4a08e0bb)
   
 ### :clipboard: 프로젝트
 + :dog: [ABlue맞추기게임](https://github.com/ABlued/GDProject) : react, redux, firebase, aws를 사용한 모바일 게임
@@ -39,7 +42,7 @@ Here are some ideas to get you started:
 + :sunrise: [Momonton](https://github.com/ABlued/momonton) : HTML, CSS, JS, API를 사용하여 음식을 추천하는 웹사이트
   
 ### :family: 팀 프로젝트
-+ :cupid: [심쿵](https://github.com/MBTIProject) : 심리테스트 웹사이트 만들기 프로젝트
++ :cupid: [심쿵](https://github.com/MBTIProject) : react, spring을 사용한 심리테스트 웹사이트 만드는 팀프로젝트
 + :smile_cat: [CBTI](https://github.com/CBTI) : 진행 중
 + :camera: [ParsiArtGallery](https://github.com/ABlued/ParisArtGallery-public-) : Java, JSP, JDBC를 사용한 사진을 공유할 수 있는 CRUD 게시판
   
