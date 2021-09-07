@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 + :clipboard: [니꼬내꼬 소개가이드](https://grey-fairy-603.notion.site/1cab68a68dbe42308935d70d4a08e0bb)
   
 ### :clipboard: 프로젝트
-+ :dog: [ABlue맞추기게임](https://github.com/ABlued/GDProject) : react, redux, firebase, aws를 사용한 모바일 게임
 + :rice_scene: [SSIStargram](https://github.com/ABlued/SSIStargram) : react, redux-action, immer, firebase 를 사용하여 인스타그램을 모티브로 한 모바일sns커뮤니티
++ :dog: [ABlue맞추기게임](https://github.com/ABlued/GDProject) : react, redux, firebase, aws를 사용한 모바일 게임
 + :shirt: [CShop](https://github.com/ABlued/CShop) : HTML, CSS, JS, Json을 사용한 간단한 미니 프로젝트
 + :dress: [NodeSinSa](https://github.com/ABlued/NodeReactProject) : React, NodeJS, Redux, 몽고DB, express를 활용한 쇼핑몰 웹사이트 구현
 + :sunrise: [Momonton](https://github.com/ABlued/momonton) : HTML, CSS, JS, API를 사용하여 음식을 추천하는 웹사이트
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ### :star: 이력
 + [Contributing] [React 공식 문서 오픈소스 기여(문서 수정)](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/typechecking-with-proptypes.md)
 + [Study] [한국산업기술대학교 IT동아리 씨부엉 임원 및 자바 스터디 리더](https://cafe.naver.com/cebuong/188) 2020.5.29 ~ 2020.9.23
-+ [Training Program] [G밸리 개발자 양성 GD프로젝트](https://ablue-1.tistory.com/category/GD%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) 2021.7.5 ~ 진행중  
++ [Training Program] [G밸리 개발자 양성 GD프로젝트](https://ablue-1.tistory.com/category/GD%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) 2021.7.5 ~ 9.5
 + [Certificate] 정보처리기사 합격
 ### Etc.
 - 🌎 Contact me : skwodhkswkd@naver.com
