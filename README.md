@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 + DataBase : ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=black)
 + CollaborationManagement : ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=White)
 + programming language : ![java](https://img.shields.io/badge/java-007396?logo=java&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
-+ Others : ![JSON](https://img.shields.io/badge/JSON-000000?logo=JSON&logoColor=white)
++ Others : ![Notion](https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white)
   
 # :family: 메인 팀프로젝트
 + :womans_clothes: [니꼬내꼬](https://github.com/NikkoNaekko) : react, spring을 사용한 지그재그 모바일 어플리케이션 클론코딩 팀프로젝트(8.29 ~ 진행중)
