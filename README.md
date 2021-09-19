@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ### :thumbsup: My Skills
 + FrontEnd : ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white)
 + ModuleBundler : ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=black)
-+ Library : ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white) ![AntDesign](https://img.shields.io/badge/AntDesign-0170FE?logo=AntDesign&logoColor=white)  ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white)
-+ Framework : ![React](https://img.shields.io/badge/React-61DAF8?logo=React&logoColor=black)
++ Library : ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white)
++ Framework : ![React](https://img.shields.io/badge/React-61DAF8?logo=React&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white) ![AntDesign](https://img.shields.io/badge/AntDesign-0170FE?logo=AntDesign&logoColor=white)
 + DataBase : ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=black)
 + CollaborationManagement : ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=White)
 + programming language : ![java](https://img.shields.io/badge/java-007396?logo=java&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
