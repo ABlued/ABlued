@@ -43,9 +43,8 @@ Here are some ideas to get you started:
   
 ### :family: 팀 프로젝트
 + :cupid: [심쿵](https://github.com/MBTIProject) : react, spring을 사용한 심리테스트 웹사이트 만드는 팀프로젝트
-<!-- + :smile_cat: [CBTI](https://github.com/CBTI) : 진행 중 -->
 + :camera: [ParsiArtGallery](https://github.com/ABlued/ParisArtGallery-public-) : Java, JSP, JDBC를 사용한 사진을 공유할 수 있는 CRUD 게시판
-  
+  <!-- + :smile_cat: [CBTI](https://github.com/CBTI) : 진행 중 -->
 ### :star: 이력
 + [Contributing] [React 공식 문서 오픈소스 기여(문서 수정)](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/typechecking-with-proptypes.md)
 + [Study] [한국산업기술대학교 IT동아리 씨부엉 임원 및 자바 스터디 리더](https://cafe.naver.com/cebuong/188) 2020.5.29 ~ 2020.9.23
