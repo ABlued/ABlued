@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 + :camera: [ParsiArtGallery](https://github.com/ABlued/ParisArtGallery-public-) : Java, JSP, JDBC를 사용한 사진을 공유할 수 있는 CRUD 게시판
   <!-- + :smile_cat: [CBTI](https://github.com/CBTI) : 진행 중 -->
 ### :star: 이력
-+ [Contributing] [React 공식 문서 오픈소스 기여(문서 수정)](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/typechecking-with-proptypes.md)
++ [Contributing] [React 공식 문서 오픈소스 기여(문서 수정)](https://github.com/reactjs/ko.reactjs.org/pull/325)
 + [Study] [한국산업기술대학교 IT동아리 씨부엉 임원 및 자바 스터디 리더](https://cafe.naver.com/cebuong/188) 2020.5.29 ~ 2020.9.23
 + [Training Program] [G밸리 개발자 양성 GD프로젝트](https://ablue-1.tistory.com/category/GD%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) 2021.7.5 ~ 9.5
 + [Certificate] 정보처리기사 합격
