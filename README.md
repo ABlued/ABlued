@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 + Others : ![Notion](https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white)
   
 # :family: 메인 팀프로젝트
-+ :womans_clothes: [니꼬내꼬](https://github.com/NikkoNaekko) : react, spring을 사용한 지그재그 모바일 어플리케이션 클론코딩 팀프로젝트(8.29 ~ 진행중)
++ :womans_clothes: [니꼬내꼬](https://github.com/NikkoNaekko) : react, spring을 사용한 지그재그 웹 어플리케이션 팀프로젝트(8.29 ~ 진행중)
 + :clipboard: [니꼬내꼬 소개가이드](https://grey-fairy-603.notion.site/1cab68a68dbe42308935d70d4a08e0bb)
   
 ### :clipboard: 프로젝트
