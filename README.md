@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 + :rice_scene: [SSIStargram](https://github.com/ABlued/SSIStargram) : react, redux-action, immer, firebase 를 사용하여 인스타그램을 모티브로 한 모바일sns커뮤니티
 + :dog: [ABlue맞추기게임](https://github.com/ABlued/GDProject) : react, redux, firebase, aws를 사용한 모바일 게임
 + :shirt: [CShop](https://github.com/ABlued/CShop) : HTML, CSS, JS, Json을 사용한 간단한 미니 프로젝트
-<!-- + :dress: [NodeSinSa](https://github.com/ABlued/NodeReactProject) : React, NodeJS, Redux, 몽고DB, express를 활용한 쇼핑몰 웹사이트 구현 -->
++ :dress: [NodeSinSa](https://github.com/ABlued/NodeReactProject) : React, NodeJS, Redux, 몽고DB, express를 활용한 쇼핑몰 웹사이트 구현
 + :sunrise: [Momonton](https://github.com/ABlued/momonton) : HTML, CSS, JS, API를 사용하여 음식을 추천하는 웹사이트
   
 ### :family: 팀 프로젝트
