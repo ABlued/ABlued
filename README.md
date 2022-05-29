@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 + programming language : ![java](https://img.shields.io/badge/java-007396?logo=java&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
 + Others : ![Notion](https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white)
   
-# :family: 메인 팀프로젝트
+<!-- # :family: 메인 팀프로젝트
 + :womans_clothes: [니꼬내꼬](https://github.com/NikkoNaekko) : react, spring을 사용한 지그재그 웹 어플리케이션 팀프로젝트(8.29 ~ 11.16)
 + :clipboard: [니꼬내꼬 소개가이드](https://grey-fairy-603.notion.site/1cab68a68dbe42308935d70d4a08e0bb)
   
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 + [Study] [한국산업기술대학교 IT동아리 씨부엉 임원 및 자바 스터디 리더](https://cafe.naver.com/cebuong/188) 2020.5.29 ~ 2020.9.23
 + [Training Program] [G밸리 개발자 양성 GD프로젝트](https://ablue-1.tistory.com/category/GD%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) 2021.7.5 ~ 9.5
 + [Certificate] 정보처리기사 합격
-### Etc.
+### Etc. -->
 - 🌎 Contact me : skwodhkswkd@naver.com
 - 🌱 Blog : [ABlue의 기술블로그](https://ablue-1.tistory.com)
   
