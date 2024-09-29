@@ -37,7 +37,11 @@
 ### Etc. -->
 - 🌎 Contact me : skwodhkswkd@naver.com
 - 🌱 Blog : [ABlue의 기술블로그](https://ablue-1.tistory.com)
-  
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/ablued"/>
+</a>
   
 [![ABlued's github stats](https://github-readme-stats.vercel.app/api?username=ABlued&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
