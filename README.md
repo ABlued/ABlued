@@ -35,7 +35,7 @@
 + [Training Program] [G밸리 개발자 양성 GD프로젝트](https://ablue-1.tistory.com/category/GD%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) 2021.7.5 ~ 9.5
 + [Certificate] 정보처리기사 합격
 ### Etc. -->
-- 🌎 Contact me : skwodhkswkd@naver.com
+- 🌎 Contact me : jaewan.na8153@gmail.com
 - 🌱 Blog : [ABlue의 기술블로그](https://ablue-1.tistory.com)
 
 
